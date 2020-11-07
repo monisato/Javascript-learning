@@ -1,0 +1,31 @@
+body {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: rgb(252, 133, 90);
+}
+
+#quemsomos {
+    background-color: rgb(250, 110, 59);
+    color: white;
+}
+
+.padding, h3 {
+    padding: 20px;
+}
+
+.loja {
+    background-color: rgb(252, 172, 143);
+}
+
+footer {
+    background-color: rgb(172, 64, 25);
+    color: white;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+
